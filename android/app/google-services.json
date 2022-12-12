@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "672229927020",
+    "project_id": "flash-chat-8d75a",
+    "storage_bucket": "flash-chat-8d75a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:672229927020:android:5b21420607efa8db059049",
+        "android_client_info": {
+          "package_name": "com.UmairLiaqat.flash_chat_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "672229927020-v4eioc7ibuoikmdso4fieafbd3gt48v7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACwSx5rUz4MYRM8E614K28hlgl1HwhkL8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "672229927020-v4eioc7ibuoikmdso4fieafbd3gt48v7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:672229927020:android:67f8921ab3da6c2e059049",
+        "android_client_info": {
+          "package_name": "com.example.flutter_image_picker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "672229927020-v4eioc7ibuoikmdso4fieafbd3gt48v7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACwSx5rUz4MYRM8E614K28hlgl1HwhkL8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "672229927020-v4eioc7ibuoikmdso4fieafbd3gt48v7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
